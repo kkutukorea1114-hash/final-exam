@@ -21,4 +21,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "final exam"
 include(":app")
-include(":app:lastexam")

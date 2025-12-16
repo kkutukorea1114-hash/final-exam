@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.lastexam"
+    namespace = "com.example.finalexam"
     compileSdk = 36
 
     defaultConfig {

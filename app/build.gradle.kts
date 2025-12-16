@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.example.finalexam"
-    compileSdk = 36
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.finalexam"
         minSdk = 32
-        targetSdk = 36
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
